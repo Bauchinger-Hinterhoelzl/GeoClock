@@ -8,5 +8,5 @@ This App is for alarming a person if they reach a certain distance to a location
 * It is possible to have more than one alarm clock active
 
 ### Prototype
-This is a link to a prototype design for our app:
-https://xd.adobe.com/view/2cd7cf1c-40b2-4422-896c-5c92e52472e9-7984/
+* This is a link to a prototype design for our app:
+* https://xd.adobe.com/view/2cd7cf1c-40b2-4422-896c-5c92e52472e9-7984/
